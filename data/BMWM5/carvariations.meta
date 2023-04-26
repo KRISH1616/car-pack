@@ -13,7 +13,7 @@
 
 
     <Item>
-      <modelName>bmci</modelName>
+      <modelName>BMWM5</modelName>
       <colors>
         <Item>
           <indices content="char_array">
@@ -89,7 +89,7 @@
         </Item>
       </colors>
       <kits>
-         <Item>964_bmci_modkit</Item>
+         <Item>964_BMWM5_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>

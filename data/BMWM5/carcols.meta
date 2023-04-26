@@ -11,7 +11,7 @@
 
   <Kits>
     <Item>
-      <kitName>964_bmci_modkit</kitName>
+      <kitName>964_BMWM5_modkit</kitName>
       <id value="964" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>	
@@ -1190,7 +1190,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>bmci</name>
+      <name>BMWM5</name>
     </Item>
     </Lights>
 
